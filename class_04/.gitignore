@@ -1,0 +1,13 @@
+# 构建产物
+build/
+cmake-build-*/
+
+# 可执行文件
+*.exe
+*.out
+a.out
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
